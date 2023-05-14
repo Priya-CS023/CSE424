@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://www.youtube.com/playlist?list=PLQamdgXw_t9X_wwMYNsTE6A1viA4KqFQQ
+https://youtu.be/7Zq94ubz-YI
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1_2xXLM5HPhb_QR5IxCh7nWQzg9ok8kOlCgakK7COnYg/edit?usp=sharing
 
 Paper title:
 A squeeze and excitation ResNeXt-based deep learning model for Bangla handwritten compound character recognition 
